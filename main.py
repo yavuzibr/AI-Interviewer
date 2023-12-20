@@ -6,6 +6,7 @@ import pandas as pd
 from apikey import api_key
 
 os.environ["OPENAI_API_KEY"] ="api_key"
+
 file = pd.read_csv('/Users/yunsemr/Downloads/ai_interview_data_1.csv')
 
 # note: you will have to change api key and file id (of csv file)

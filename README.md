@@ -27,5 +27,5 @@ informed hiring decisions swiftly and efficiently
 # Ibrahim Yavuz -> @yavuzibr
 # Yunus Emre Aydın -> @yunsemr
 # Hasan Ahmed -> @hasanahmed1810
-# Bilgekul Kadirhan Karahan -> @bilgekul
+# Bilgekul Kadirhan Karahan -> @bilgekul :)
 
