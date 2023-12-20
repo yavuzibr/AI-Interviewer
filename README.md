@@ -14,6 +14,7 @@ analysis of resumes, providing invaluable insights into candidates' skills,
 qualifications, and experiences. By automating the parsing and
 interpretation of resume content, we empower organizations to make
 informed hiring decisions swiftly and efficiently
+
 ![Instructions (1)](https://github.com/yavuzibr/AI-Interviewer/assets/91032836/25532eed-d5dd-4ba2-910a-1c16633dc3e0)
 <img width="1102" alt="chat_bot2 (1)" src="https://github.com/yavuzibr/AI-Interviewer/assets/91032836/5b59273d-dd24-45bf-8ed9-96a664c7ddc9">
 
