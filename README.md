@@ -14,3 +14,10 @@ analysis of resumes, providing invaluable insights into candidates' skills,
 qualifications, and experiences. By automating the parsing and
 interpretation of resume content, we empower organizations to make
 informed hiring decisions swiftly and efficiently
+
+# Contributers
+# Ibrahim Yavuz -> @yavuzibr
+# Yunus Emre Aydın -> @yunsemr
+# Hasan Ahmed -> @hasanahmed1810
+# Bilgekul Kadirhan Karahan -> @bilgekul
+
